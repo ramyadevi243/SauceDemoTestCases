@@ -1,1 +1,1 @@
-# SauceDemoTestCases
+A comprehensive document that outlines both positive and negative test suites/cases. This document serves as a foundational guide for automation testers to develop test scripts for verifying and validating the web application. Additionally, prepared a "Bug Report" which details Bugs identified.
